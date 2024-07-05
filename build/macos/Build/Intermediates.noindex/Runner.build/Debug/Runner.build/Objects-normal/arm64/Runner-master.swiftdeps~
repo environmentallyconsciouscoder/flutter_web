@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0716c2ee986f34718993601b4f3d80252cccd3512ee763d40d684ce126db0092"
+build_start_time: [1673022381, 467147827]
+build_end_time: [1673022381, 487673044]
+inputs:
+  "/Users/james/development/sales_engine_02/my_first_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1673022368, 158442497]
+  "/Users/james/development/sales_engine_02/my_first_app/macos/Runner/AppDelegate.swift": !private [1671141040, 0]
+  "/Users/james/development/sales_engine_02/my_first_app/macos/Runner/MainFlutterWindow.swift": !private [1671141040, 0]
